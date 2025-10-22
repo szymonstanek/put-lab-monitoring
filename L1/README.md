@@ -83,6 +83,6 @@ a       E[t₁=1]      E[t₂=3]      E[t₃=4]
 
 ---
 **Metodologia:** Pliki ```z*.py``` wykonane samodzielnie, główna pętla ```main.py``` wygenerowana z pomocą Claude AI.
-
+**Source Code:** https://github.com/szymonstanek/put-lab-monitoring/tree/main/L1 
 **Data:** Październik 2025
 **Przedmiot:** Monitorowanie i Ocena Wydajności Sieci
